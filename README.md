@@ -11,4 +11,4 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamz4ri&count_private=true&show_icons=true&theme=tokyonight)
 [![iamz4ri's github trophy](https://github-profile-trophy.vercel.app/?username=iamz4ri&row=1)](https://github.com/iamz4ri)
-[![Discord Presence](https://lanyard.cnrad.dev/api/931571509556826172)](https://discord.com/users/931571509556826172)
+[![Discord Presence](https://lanyard.cnrad.dev/api/931571509556826172?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px](https://discord.com/users/931571509556826172)
