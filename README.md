@@ -6,7 +6,7 @@
 
 <h3 align="left">Social network:</h3>
 <p align="left">
-<a href="https://twitch.tv/iamz4ri" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg)/discord.svg" alt="9uZ6eXFPHD" height="30" width="40" /></a>
+<a href="https://twitch.tv/iamz4ri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="9uZ6eXFPHD" height="30" width="40" /></a>
 </p>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamz4ri&count_private=true&show_icons=true&theme=tokyonight)
