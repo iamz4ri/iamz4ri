@@ -23,6 +23,8 @@
   Just a "ngẫu hứng" works for.
 - 📘 [***hocsinhgioitoan/Multi-tool***](https://github.com/hocsinhgioitoan/Multi-tool) <br/>
   dit me hoang hai anh.
+- 📕 [***LongAKolangle/discord-owo-selfbot***](https://github.com/LongAKolangle/discord-owo-selfbot) <br/>
+  vl thiet??
 
 <sub>  *"It seems these strangers want me dead. Eh bien, they're not the first." – chu khi nguoi fap* </sub>
 </div>
