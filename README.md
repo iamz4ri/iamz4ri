@@ -34,17 +34,6 @@
     <img src="https://lanyard.cnrad.dev/api/931571509556826172?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=You%20want%20to%20play?%20Let's%20play!">
   </a>
 
-## My stats:
-
-<br/>
-<p align="left">
-  <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iamz4ri&theme=dracula&show_icons=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamz4ri&theme=dracula&hide_border=true" />
-  </a>
-</p>
-<br>
-
 ## Thanks for reading ❤️
 
 ![:aikocount](https://count.getloli.com/get/@iamz4ri?theme=rule34)
